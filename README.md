@@ -22,6 +22,12 @@ What does 'Property Location Expert' do?
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [House Design](https://github.com/sourceduty/House_Design)
+<br>
+[Property Bills](https://github.com/sourceduty/Property_Bills)
+<br>
+[Future Resale Value](https://github.com/sourceduty/Future_Resale_Value)
+<br>
+[Abandoned Locations](https://github.com/sourceduty/Abandoned_Locations)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
