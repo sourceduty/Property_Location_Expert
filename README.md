@@ -8,6 +8,14 @@
 
 The tool operates through a structured, step-by-step process, asking users key questions to clarify their preferences and needs. This helps refine the search for a property location based on specific criteria, such as the type of property being sought, climate considerations, or nearby services. While it can offer general guidance and recommendations, it does not provide legal advice or replace real estate professionals, lawyers, or zoning authorities. Instead, it aids in exploring options and gathering information, empowering users to make informed decisions in their property search.
 
+.......................................................................................................
+
+```
+Plan, develop and simulate a personal property.
+Plan, develop and simulate a professional property.
+What does 'Property Location Expert' do?
+```
+
 #
 ### Related Links
 
