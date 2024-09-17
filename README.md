@@ -28,6 +28,8 @@ What does 'Property Location Expert' do?
 [Future Resale Value](https://github.com/sourceduty/Future_Resale_Value)
 <br>
 [Abandoned Locations](https://github.com/sourceduty/Abandoned_Locations)
+<br>
+[Property Locale](https://github.com/sourceduty/Property_Locale)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
