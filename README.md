@@ -14,6 +14,7 @@ The tool operates through a structured, step-by-step process, asking users key q
 Plan, develop and simulate a personal property.
 Plan, develop and simulate a professional property.
 What does 'Property Location Expert' do?
+Print a cheat sheet for this custom GPT.
 ```
 
 #
