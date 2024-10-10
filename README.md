@@ -24,13 +24,12 @@ Qualifying a property involves assessing its suitability based on location, zoni
 The property’s financial aspects, such as its market value, potential for appreciation, and tax implications, are central to determining its long-term investment potential. Appraisals and comparable sales (comps) of similar properties provide insight into fair market value and help gauge if the property is reasonably priced. Development potential is another critical consideration, particularly for properties in urban areas, where future construction, such as multi-family units or commercial buildings, may be allowed. Local economic trends and planned infrastructure projects, such as new highways or public transit, can significantly affect a property’s future desirability. Finally, availability of utilities like water, electricity, gas, and internet must be ensured, as these are essential for both residential and commercial uses, and additional resources may be needed for specific property types, like agricultural land. Together, these factors create a holistic view of a property's current and future value and suitability.
 
 #
-### Property Qualification Math
+### Property Qualification Equation
 
 The property qualification score can be calculated using a weighted sum equation where each criterion is multiplied by a weight that represents its importance.
 
-Property Qualification Score (PQS) Equation Cheat Sheet
-
 Equation Format:
+
 PQS = Σ (Si * Wi)
 
 - Si = Score for each criterion (1 to 10 scale)
