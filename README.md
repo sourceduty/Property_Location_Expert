@@ -1,4 +1,4 @@
-![Property Location Expert](https://github.com/user-attachments/assets/d3a1c963-afff-436c-8cea-5b1ad25c63d6)
+![Location Location Location](https://github.com/user-attachments/assets/42481b29-2a12-4350-9d99-285ad91ee1a2)
 
 > Plan, develop and simulate qualifying personal and professional property locations.
 
@@ -65,6 +65,10 @@ PQS = (S_Accessibility * 0.20) + (S_Neighborhood * 0.15) + (S_Infrastructure * 0
      + (S_Property_Valuation * 0.10) + (S_Comparable_Sales * 0.05) + (S_Taxes_and_Fees * 0.05)
      + (S_Development_Potential * 0.05) + (S_Future_Infrastructure * 0.05)
      + (S_Utilities * 0.05) + (S_Resource_Requirements * 0.05)
+
+#
+
+![Property Location Expert](https://github.com/user-attachments/assets/d3a1c963-afff-436c-8cea-5b1ad25c63d6)
 
 #
 ### Related Links
