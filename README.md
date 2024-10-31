@@ -1,4 +1,5 @@
 ![Location Location Location](https://github.com/user-attachments/assets/42481b29-2a12-4350-9d99-285ad91ee1a2)
+![Property](https://github.com/user-attachments/assets/ff79112f-2ab0-41c4-a9f6-4e31b5c0e803)
 
 > Plan, develop and simulate qualifying personal and professional property locations.
 
